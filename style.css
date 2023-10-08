@@ -2,3 +2,10 @@ h1 {
   color: red;
   text-align: center;
 }
+body {
+  background-color: blanchedalmond;
+}
+strong {
+  font-size: 25px;
+  color: green;
+}
